@@ -11,3 +11,5 @@ Generates GenAI streamlit app powered by Azure AI platform
 - create a python environment or just invoke run.bat
 - make sure all dependencies from requirements.txt are installed
 - invoke: streamlit run app.py
+
+❤️This project is heavily inspired by the Streamlit and GenAI community
