@@ -1,4 +1,8 @@
-# Azure-AI-App-Builder
+<div align="center">
+<img src="https://learn.microsoft.com/en-us/azure/ai-studio/media/how-to/network/azure-ai-network-outbound.png" alt="icon"/>
+</div>
+
+# Azure AI App Builder
 Generates GenAI streamlit app powered by Azure AI platform
 
 ## How to run?
